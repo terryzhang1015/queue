@@ -3,9 +3,9 @@ A C++ queue class
 
 A queue class with some useful operations:
 
-	void push(returnType)
+	void push(valueType)
 	void pop()
-	returnType front()
-	returnType end()
+	valueType front()
+	valueType end()
 	int size()
 	bool empty()
