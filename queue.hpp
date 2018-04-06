@@ -2,7 +2,6 @@
 #define QUEUE_HPP
 
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
